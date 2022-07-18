@@ -1,0 +1,12 @@
+hr {
+    border-color:rgb(0, 0, 0);
+}
+h1{
+    color:rgb(56, 71, 65);
+    background-color: rgb(114, 138, 127);
+    padding: 20px;
+}
+h1:hover{
+    color:rgb(218, 234, 227);
+    padding: 20px;
+}
